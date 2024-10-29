@@ -1,6 +1,6 @@
 # YouTube Video Bookmark Extension
 
-![YouTube Video Bookmark Extension](icon.png) <!-- Update with the actual path to your icon -->
+![YouTube Video Bookmark Extension](icon-128.png) <!-- Update with the actual path to your icon -->
 
 ## Description
 
