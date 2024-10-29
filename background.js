@@ -6,7 +6,6 @@ chrome.runtime.onInstalled.addListener(() => {
     });
   });
   
-  // Listen for messages to add bookmarks
   chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.action === "addBookmark") {
       chrome.storage.sync.get("ytBookmarks", (data) => {
@@ -20,7 +19,7 @@ chrome.runtime.onInstalled.addListener(() => {
           }
         });
       });
-      return true; // Keeps the message channel open for sendResponse
+      return true;
     }
   });
   
