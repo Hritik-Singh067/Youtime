@@ -40,3 +40,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, please reach out to [hritikgurawalia@gmail.com](mailto:hritikgurawalia@gmail.com).
+
+## Acknowledgments
+
+This extension was developed with the assistance of OpenAI's ChatGPT for coding support. The icon was generated using OpenAI's DALL-E.
